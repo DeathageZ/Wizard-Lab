@@ -1,0 +1,7 @@
+{
+  "name": "Polytechnic Wizarding Academy",
+  "description": "An immersive magical experience for first-year polytechnic students. Interact with famous wizards, brew custom potions, and discover your inner magic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
